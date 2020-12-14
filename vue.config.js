@@ -17,7 +17,7 @@ module.exports = {
         open: true,
         proxy: {
             "/api": {
-                target: "http://sit-wx.xuefu.com/front",
+                target: "http://xxx.com/front",
                 changeOrigin: true,
                 secure: false,
                 pathRewrite:{
